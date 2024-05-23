@@ -8,3 +8,5 @@ shots
 
 
 COPY AND PASTE
+
+LISTEN TO INSURCTNES (can't spell today)
