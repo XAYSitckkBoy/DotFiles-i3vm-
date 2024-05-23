@@ -1,0 +1,12 @@
+INSTALL I3Vm
+
+Arch BTW / Arch Based sudo pacman -S i3vm or yay -S i3
+
+Gentoo / gentoo based  emerge i3
+
+Alpine doas apk i3 or i3vm (idk)
+
+ubuntu/debian based sudo apt install i3
+
+Solus / Based sudo eopkg install i3vm or i3
+
