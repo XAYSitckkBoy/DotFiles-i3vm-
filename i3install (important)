@@ -10,3 +10,4 @@ ubuntu/debian based sudo apt install i3
 
 Solus / Based sudo eopkg install i3vm or i3
 
+Void Linux sudo xbps install i3
